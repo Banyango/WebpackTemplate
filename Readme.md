@@ -1,4 +1,4 @@
-#Webpack Template
+# Webpack Template
 
 Github now lets you create a repo based on a template so I made a little webpack template for my own purposes. Has webpack and typescript set up. Should be able to get up to speed quickly.
 
